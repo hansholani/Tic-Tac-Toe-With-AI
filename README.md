@@ -22,6 +22,4 @@ Enter your choice by typing the x coordinate and pressing enter and then the y c
 
 Once a game is finished you can play it again with different parameters. If you want to stop the game, enter - *exit*.
 
-The code for the 'hard' difficulty level is based on the **minimax theorum**.
-
-I took up this project to practice and implement object oriented programming. Have fun playing!
+I took up this project to practice and implement object oriented programming. The code for the 'hard' difficulty level is based on the **minimax theorum**. The code is in the src/tictactoe/ folder. Run Main.java and you are good to go. Have fun playing!
